@@ -1,0 +1,33 @@
+#header {
+    background-color: blueviolet;
+    padding-bottom: 50px;
+    text-align: center;
+    vertical-align: center;
+    color: white;
+}
+#header h1 {
+    margin: auto;
+    width: 50%;
+    padding: 40px 0;
+}
+
+#displays, h5 {
+    text-align: center;
+}
+
+
+
+#buttonGroup {
+    /*border: 10px solid black;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    margin: 10px;
+}
+
+footer p {
+    text-align: center;
+}
